@@ -1,4 +1,4 @@
-# lambda-net
+# λ-net
 
 A self-contained meta-model
 
